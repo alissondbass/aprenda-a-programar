@@ -1,5 +1,5 @@
-var nome;
-var email;
-var profissão;
-var idade;
-var destino;
+var nome = 'Alisson';
+var email = 'alissondbass@gmail.com';
+var profissao = 'desenvolvedor';
+var idade = 27;
+var destino = 'argentina';
