@@ -11,4 +11,7 @@ var destino = 'Argentina';
 // console.log("destino: " + destino);
 
 
-console.log(`\nOlá, ${nome}! Somos aqui da agência de turismo Viagem dos Sonhos. \n\nEstamos te escrevendo este email, pois acabamos de confirmar as compras das passagens aéreas para ${destino}. \nConfirma pra gente alguns dados? A sua idade é ${idade}, você é ${profissao} e o seu email é ${email}? \n\nFicamos no aguardo. Muito obrigado e boa viagem! :D`);
+console.log(`\nOlá, ${nome}! Somos aqui da agência de turismo Viagem dos Sonhos. 
+\nEstamos te escrevendo este email, pois acabamos de confirmar as compras das passagens aéreas para ${destino}. 
+Confirma pra gente alguns dados? A sua idade é ${idade}, você é ${profissao} e o seu email é ${email}? 
+\nFicamos no aguardo. Muito obrigado e boa viagem! :D`);
