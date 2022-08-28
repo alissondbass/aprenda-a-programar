@@ -4,6 +4,7 @@
 let n = 100;
 let numeroInicial = 1;
 
+console.log(prompt());
 
 while(numeroInicial <= n){
 

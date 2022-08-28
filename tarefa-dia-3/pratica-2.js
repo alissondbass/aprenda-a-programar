@@ -10,6 +10,4 @@ while(multiplicador <= 9){
     console.log(`\n${n} X ${multiplicador} = ${multiplicador*n}`);
 
     multiplicador++;
-
-
 }
